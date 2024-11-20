@@ -1,8 +1,8 @@
 import "./App.css";
 import CounterContext from "./context/CounterContext";
 
-// import CaseOne from "./pages/propsDrillingCaseOne/CaseOne";
 import CaseTwo from "./pages/contextApiCaseTwo/CaseTwo";
+// import CaseOne from "./pages/propsDrillingCaseOne/CaseOne";
 
 function App() {
   return (

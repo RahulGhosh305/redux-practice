@@ -8,6 +8,7 @@ const Counter = () => {
 
   return (
     <div className="w-full grid place-content-center">
+      <p className="text-center font-semibold">Grand child</p>
       <div className="flex shrink-0 px-10 m-5 gap-5 rounded-xl justify-center items-center bg-slate-300 max-w-md h-28">
         <button
           onClick={() => setCount((prev) => prev + 1)}
